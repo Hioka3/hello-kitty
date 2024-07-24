@@ -1,0 +1,275 @@
+body{
+    width: 1658px; 
+    height: 4000px; 
+    position: relative; 
+    background: #7C799B;
+}
+header{
+    width: 1658px; 
+    height: 239px; 
+    position: absolute;
+}
+.logo{
+    width: 132px; 
+    height: 132px; 
+    left: 38px; 
+    top: 40px; 
+    position: absolute;
+}
+button{
+    width: 247px; 
+    height: 117px; 
+    left: 287px; 
+    border-radius: 20px; 
+    border: 7px #EC6F9B solid;
+    background-color: transparent;
+    cursor: pointer;
+    margin-left: 200px ;
+    color: white; 
+    font-size: 40px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    
+}
+.formbutton{
+    width: 1658px; 
+    height: 239px; 
+    left:150px;
+    top: 40px;
+    position: relative;
+}
+.foto1{
+    width: 1905px; 
+    height: 756px; 
+    left: -10px; 
+    top: 239px; 
+    position: absolute;
+}
+.foto2{
+    width: 776px; 
+    height: 945px; 
+    left: 520px; 
+    top: 145px; 
+    position: absolute;
+}
+.block{
+    width: 298px; 
+    height: 117px; 
+    left: 800px; 
+    top: 1200px; 
+    position: absolute; 
+    border-radius: 20px; 
+    border: 7px #EC6F9B solid;
+    color: white; 
+    font-size: 40px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    text-align: center;
+    padding-top: 40px;
+}
+::placeholder{
+    color: #B3AEAE;
+    font-family: Inria Serif;
+   text-indent: 30px;
+   text-align: left; 
+   font-size: 36px; 
+   font-family: Inria Serif; 
+   font-weight: 400; 
+   word-wrap: break-word
+}
+.input{
+    width: 305px; 
+    height: 70px; 
+    left: 1100px; 
+    top: 1450px; 
+    font-size: 40px;
+    position: absolute;
+    background: white;
+}
+.icons{
+    width: 50px; 
+    height: 50px; 
+    left: 1350px; 
+    top: 1460px; 
+    position: absolute;
+}
+select{
+    width: 305px; 
+    height: 70px; 
+    left: 1500px; 
+    top: 1450px; 
+    position: absolute; 
+    background: white;
+    color: #B3AEAE;
+    font-family: Inria Serif;
+   text-indent: 30px;
+   text-align: left; 
+   font-size: 36px; 
+   font-family: Inria Serif; 
+   font-weight: 400; 
+   word-wrap: break-word
+}
+option{
+    color: #B3AEAE;
+    font-family: Inria Serif;
+   text-indent: 30px;
+   text-align: left; 
+   font-size: 36px; 
+   font-family: Inria Serif; 
+   font-weight: 400; 
+   word-wrap: break-word
+}
+.blockitems{
+    width: 440px; 
+    height: 645px; 
+    left: 100px; 
+    top: 1700px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 10px;
+}
+.blockitems2{
+    width: 440px; 
+    height: 645px; 
+    left: 750px; 
+    top: 1700px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 10px;
+}
+.blockitems3{
+    width: 440px; 
+    height: 645px; 
+    left: 1400px; 
+    top: 1700px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 10px;
+}
+.fotoitems{
+    width: 450px; 
+    height: 450px; 
+    left: 95px; 
+    top: 1780px; 
+    position: absolute;
+}
+.fotoitems2{
+    width:  465px; 
+    height: 566px; 
+    left: 750px; 
+    top: 1730px; 
+    position: absolute;
+} 
+.fotoitems3{
+    width: 438px; 
+    height: 378px;
+    left: 1430px; 
+    top: 1770px; 
+    position: absolute;
+} 
+
+.iconfavorite{
+    width: 50px; 
+    height: 50px; 
+    left: 450px; 
+    top: 2250px; 
+    position: absolute
+}
+.iconfavorite2{
+    width: 50px; 
+    height: 50px; 
+    left: 1100px; 
+    top: 2250px; 
+    position: absolute
+}
+.iconfavorite3{
+    width: 50px; 
+    height: 50px; 
+    left: 1750px; 
+    top: 2250px; 
+    position: absolute
+}
+.textitems{
+    width: 397px; 
+    left: 120px; 
+    top: 2400px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 36px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.textitems2{
+    width: 397px; 
+    left: 770px; 
+    top: 2400px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 36px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.textitems3{
+    width: 185px; 
+    left: 1530px; 
+    top: 2400px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 36px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+   
+}
+footer{
+    width: 1910px;
+    height: 276px; 
+    top: 3800px;
+    left:-10px;
+    position: relative; 
+    background: #B3AEAE
+}
+.textfooter{
+    left: 900px; 
+    top: 20px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.textfooter2{
+    left: 800px; 
+    top: 70px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Inria Serif; 
+    font-weight: 400; 
+    word-wrap: break-word
+
+
+}
+.iconfooter{
+    width: 84px; 
+    height: 95.87px; 
+    left: 850px; 
+    top: 130px; 
+    position: absolute;
+}
+.iconfooter2{
+    width: 84px; 
+    height: 84px; 
+    left: 1000px; 
+    top: 130px; 
+    position: absolute;
+}
