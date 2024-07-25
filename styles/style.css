@@ -273,3 +273,145 @@ footer{
     top: 130px; 
     position: absolute;
 }
+.title1{
+    left: 750px; 
+    top: 300px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 96px;
+    font-family: Indie Flower; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.filter{
+left: 80px; 
+top: 500px; 
+position: absolute; 
+text-align: center; 
+color: white; 
+font-size: 40px; 
+font-family: Inria Serif; 
+font-weight: 400; 
+word-wrap: break-word;
+}
+.block1{
+width: 353px; 
+height: 634px; 
+left: 43px; 
+top: 600px; 
+position: absolute; 
+border-radius: 10px; 
+border: 7px #EC6F9B solid;
+}
+.title2{
+left: 780px; 
+top: 300px; 
+position: absolute; 
+text-align: center; 
+color: black; 
+font-size: 96px; 
+font-family: Creepster; 
+font-weight: 400; 
+word-wrap: break-word;
+}
+.textaccount{
+left: 101px; 
+top: 400px; 
+position: absolute; 
+text-align: center; 
+color: white; 
+font-size: 64px; 
+font-family: Inria Serif; 
+font-weight: 400; 
+word-wrap: break-word;
+}
+.line1{
+width: 609px; 
+height: 0px; 
+left: 101px; 
+top: 530px; 
+position: absolute; 
+border: 7px #EC6F9B solid;
+}
+.textaccount2{
+left: 101px; 
+top: 750px; 
+position: absolute; 
+text-align: center; 
+color: white; 
+font-size: 32px; 
+font-family: Inria Serif; 
+font-weight: 400; 
+word-wrap: break-word;
+}
+.block2{
+width: 771px; 
+height: 117px; 
+left: 950px; 
+top: 400px; 
+position: absolute; 
+border-radius: 20px; 
+border: 7px #EC6F9B solid;    
+}
+.text{
+left: 1050px; 
+top: 430px; 
+position: absolute; 
+text-align: center; 
+color: white; 
+font-size: 40px; 
+font-family: Inria Serif; 
+font-weight: 400; 
+word-wrap: break-word;
+}
+.textaccount3{
+width: 701px; 
+height: 97px; 
+left: 1000px; 
+top: 600px; 
+position: absolute; 
+text-align: center; 
+color: white; 
+font-size: 24px; 
+font-family: Inria Serif; 
+font-weight: 400; 
+word-wrap: break-word;
+}
+::placeholder{
+color: white;
+font-family: Inria Serif;
+text-indent: 30px;
+}
+.input2{
+width: 700px; 
+height: 100px;
+left: 985px; 
+top: 800px; 
+font-family:Inria Serif ;
+position: relative; 
+background: #DD6689;
+border-radius: 10px; 
+border: 3px #F71263 solid;
+margin-bottom: 15px;
+font-weight: 400px; 
+font-size: 32px;
+word-wrap: break-word;
+padding-left: 25px;
+}
+.button2{
+width: 300px; 
+height: 100px; 
+left: 1010px; 
+top: 1010px; 
+position: absolute; 
+background: #DD6689; 
+border-radius: 10px; 
+border: 3px #F71263 solid;
+cursor: pointer;
+color: white; 
+font-size: 32px; 
+font-family: Inria Serif; 
+font-weight: 400; 
+word-wrap: break-word;
+}
